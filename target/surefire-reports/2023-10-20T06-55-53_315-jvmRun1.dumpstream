@@ -1,0 +1,12 @@
+# Created at 2023-10-20T06:56:10.538
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2023-10-20T06:56:10.546
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# There is insufficient memory for the Java Runtime Environment to continue.'.
+
+# Created at 2023-10-20T06:56:10.554
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# Native memory allocation (mmap) failed to map 65536 bytes for Failed to commit metaspace.'.
+
+# Created at 2023-10-20T06:56:10.556
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# An error report file with more information is saved as:'.
+

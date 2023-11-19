@@ -1,0 +1,24 @@
+# Created at 2023-10-20T07:49:22.543
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[thread 9956 also had an error]'.
+
+# Created at 2023-10-20T07:49:22.565
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2023-10-20T07:49:22.572
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# There is insufficient memory for the Java Runtime Environment to continue.'.
+
+# Created at 2023-10-20T07:49:22.581
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# Native memory allocation (malloc) failed to allocate 32744 bytes for ChunkPool::allocate'.
+
+# Created at 2023-10-20T07:49:22.589
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# An error report file with more information is saved as:'.
+
+# Created at 2023-10-20T07:49:22.651
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# C:\Users\burha\eclipse-workspace\SeleniumFrameworkDesign\hs_err_pid10680.log'.
+
+# Created at 2023-10-20T07:49:22.653
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2023-10-20T07:49:22.661
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# Compiler replay data is saved as:'.
+
